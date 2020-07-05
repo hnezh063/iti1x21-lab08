@@ -1,6 +1,6 @@
 ```
-Student name: Linda Danvers
-Student number: 123456
+Student name: haitam nezhari
+Student number: 300092858
 Course code: ITI1121
 Lab: Lab08
 Course section: 02
